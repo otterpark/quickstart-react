@@ -141,7 +141,8 @@ You can also run this command directly using 'npm init @eslint/config'.
 
 Checking peerDependencies of eslint-config-xo-typescript@latest
 Checking peerDependencies of eslint-config-xo@latest
-The config that you've selected requires the following dependencies:
+
+The config that you have selected requires the following dependencies:
 
 eslint-plugin-react@latest eslint-config-xo@latest eslint@>=8.0.0 eslint-config-xo-typescript@latest @typescript-eslint/eslint-plugin@>=5.57.0 @typescript-eslint/parser@>=5.57.0 typescript@>=4.4
 
