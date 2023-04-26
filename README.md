@@ -427,7 +427,7 @@ npm start
 
 웹 브라우저로 확인: <http://localhost:8080>
 
-### 여기서부터는 꿀팁!
+### 여기서부터는 꿀팁 👍
 
 `.vscode/settings.json` 파일을 추가해 JS/TS 파일을 저장할 때마다 ESLint를 실행하고 문제점을 고치게 설정할 수 있다.
 
